@@ -1,4 +1,4 @@
-# BakaSU
+# BakaSosu
 <img align='right' src='BakaSU_Full.svg' width='220px' alt="BakaSU Icon">
 
 Formerly known as: ReSukiSU
